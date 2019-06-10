@@ -8,6 +8,7 @@ header{
     margin-top:0px;
     margin-bottom: 5px;
     height: 50px;
+    background-color: white
 }
 .headercontent{
     width: 960px;
@@ -15,12 +16,9 @@ header{
     padding-right:15%;
 }
 .pagename{
-    border-style: solid;
-    border-color: #4aaaa5;
     background-color: #4aaaa5;
     display: inline;
     color:white;
-    padding:10px 0px 10px 0px;
 }
 .title{
     color: #4aaaa5;
