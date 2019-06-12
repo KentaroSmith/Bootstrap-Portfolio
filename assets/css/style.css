@@ -12,7 +12,7 @@ header{
 }
 .headercontent{
     width: 960px;
-    padding-left:15%;
+    padding-left:10%;
 }
 .pagename{
     background-color: #4aaaa5;
@@ -25,7 +25,7 @@ header{
 article{
     max-width: 960px;
     align-content: center;
-    margin-left: 15%;
+    margin-left: 10%;
     margin-right:15%;
     border-style: solid;
     border-color:#dddddd;
