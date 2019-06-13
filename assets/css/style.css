@@ -2,7 +2,6 @@ h1{
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 header{
-    width:100%;
     border-bottom-style: solid;
     border-color: #cccccc;
     margin-top:0px;
@@ -51,9 +50,9 @@ li a{
 ul{
     margin: 0px;
     padding-top:15px;
+    padding-left: 30%;
     list-style-type: none;
     overflow: hidden;
-    float: right;
 }
 p{
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
