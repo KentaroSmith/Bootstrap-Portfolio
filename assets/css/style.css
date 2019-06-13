@@ -104,3 +104,7 @@ button:hover{
     background-color: #4a68aa;
     font-weight: bold;
 }
+.card{
+    margin-bottom:10%;
+    padding: 0%;
+} 
